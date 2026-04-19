@@ -1,3 +1,3 @@
-a = "ayub"
-b = "aylal"
-print (a, b)
+a = "Baba"
+b = "Hamid"
+print(a, b)
